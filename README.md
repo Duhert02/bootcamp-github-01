@@ -1,3 +1,3 @@
 # bootcamp-github-01
 
-Nombre y apellidos : Jaume Duart Girona
+Nombre y apellidos : Jaume Miquel Duart Girona
